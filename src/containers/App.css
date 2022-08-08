@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@700&display=swap");
+
+@font-face {
+  font-family: "SEGA LOGO FONT";
+  font-style: normal;
+  font-weight: normal;
+  src: local("SEGA LOGO FONT"), url("SEGA.woff") format("woff");
+}
+h1 {
+  font-family: SEGA LOGO FONT;
+  font-weight: bold;
+}
